@@ -12,13 +12,13 @@ This project is for practicing SQL by answering the tutorials: learn SQL in stag
 
 ### Setup
 
--To clone this repo run this code on a terminal window: 
+- To clone this repo run this code on a terminal window: 
 
 git clone https://github.com/Maha-Magdy/Database-Practise
 
 ### Usage
 
--In the project folder, there is a file that represents each tutorial with its name.
+- In the project folder, there is a file that represents each tutorial with its name.
 
 ## Author
 
