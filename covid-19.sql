@@ -67,4 +67,3 @@ FROM (
 FROM covid) x
 WHERE new_cases >= 1000) Y
 WHERE rank = 1) z;
-
