@@ -14,7 +14,9 @@ This project is for practicing SQL by answering the tutorials: learn SQL in stag
 
 - To clone this repo run this code on a terminal window: 
 
+```
 git clone https://github.com/Maha-Magdy/Database-Practise
+```
 
 ### Usage
 
